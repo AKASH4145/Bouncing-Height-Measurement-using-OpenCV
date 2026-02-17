@@ -35,7 +35,7 @@ bouncing-height/
 ---
 ## Setup And Run
 
-git clone https://github.com/<AKASH4145>/bouncing-height.git >>
+git clone https://github.com/AKASH4145/bouncing-height.git >>
 cd bouncing-height >> 
 python -m venv venv >> 
 source venv/bin/activate (Linux / MacOS) or 
